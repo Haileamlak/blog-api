@@ -1,6 +1,6 @@
 # Blog API
 
-A robust and scalable RESTful API for a blog platform. It supports user authentication and authorization, CRUD operations for blog posts, advanced search and filtering, and role-based access control. It also includes AI integration for content generation, suggestion, and enhancement. The API is built using Go and designed for high performance, scalability, and maintainability using clean architecture.
+A scalable RESTful API for a blog platform that supports user authentication and authorization, CRUD operations for blog posts, advanced search and filtering, and role-based access control. It also includes AI integration for content generation, suggestion, and enhancement. The API is built using Go and designed for high performance, scalability, and maintainability using clean architecture.
 
 ## Table of Contents
 - [Features](#features)
